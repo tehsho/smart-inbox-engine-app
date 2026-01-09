@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InboxEngine", "InboxEngine.csproj", "{3F8D132D-5C7B-8E35-F0D8-8AB88CA8BA58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InboxEngine.Tests", "Tests\InboxEngine.Tests.csproj", "{3B6F0B21-2D18-11BE-AA57-20DF5F86CEFC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F8D132D-5C7B-8E35-F0D8-8AB88CA8BA58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F8D132D-5C7B-8E35-F0D8-8AB88CA8BA58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F8D132D-5C7B-8E35-F0D8-8AB88CA8BA58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F8D132D-5C7B-8E35-F0D8-8AB88CA8BA58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B6F0B21-2D18-11BE-AA57-20DF5F86CEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B6F0B21-2D18-11BE-AA57-20DF5F86CEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B6F0B21-2D18-11BE-AA57-20DF5F86CEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B6F0B21-2D18-11BE-AA57-20DF5F86CEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1B0286F-673C-455E-A483-440755C815AE}
+	EndGlobalSection
+EndGlobal
