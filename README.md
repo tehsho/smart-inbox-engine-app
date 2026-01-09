@@ -17,9 +17,12 @@ I used AI mainly as a productivity aid - to help draft unit tests, clean up and 
 and quickly answer technical questions 
 (for example, how to format the backend with dotnet format and the frontend with Prettier).
  All design and final implementation decisions were made and reviewed by me.
+ 
 4. **What percentage of your code was AI-generated vs. written by you?**
 Not sure about percentage, but main part was written or finalized by me. ChatGPT was used to speed up repetitive tasks and provide suggestions, 
 but all core logic, structure, and final code were reviewed, adapted, and owned by me.
+
+
 5. **Did you use AI to help with the test implementation?**
 yes
 

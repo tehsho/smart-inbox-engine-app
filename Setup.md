@@ -16,30 +16,25 @@ dotnet restore
 dotnet build
 dotnet test
 dotnet run
+
 Backend will run at:
 
-arduino
-Copy code
 https://localhost:5001
 Run the Frontend
-bash
-Copy code
+
 cd client
 npm install
 npm start
+
 Open:
 
-arduino
-Copy code
 http://localhost:3000
 Ensure CORS is enabled in the backend for http://localhost:3000.
 
-yaml
-Copy code
 
 ---
 
-## ✅ `ASSIGNMENT.md` (what you built & why)
+## `ASSIGNMENT.md` (what you built & why)
 
 This file focuses on **requirements, design, and evaluation**:
 
